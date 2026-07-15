@@ -20,5 +20,5 @@ https://public.tableau.com/authoring/CropProductionAnalysis1997-2021/Dashboard1#
 Dashboard screenshots are available in this repository.
 
 ## Author
-Divyansh Jangid 
-Yash dixit
+- Divyansh Jangid 
+- Yash dixit
